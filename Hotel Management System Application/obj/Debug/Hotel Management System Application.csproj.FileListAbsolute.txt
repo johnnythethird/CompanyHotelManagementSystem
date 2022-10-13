@@ -1,0 +1,23 @@
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\Hotel Management System Application.exe.config
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\Hotel Management System Application.exe
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\Hotel Management System Application.pdb
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\Guna.UI2.dll
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel Management System Application.csproj.AssemblyReference.cache
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel Management System Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel_Management_System_Application.LoginForm.resources
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel_Management_System_Application.Properties.Resources.resources
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel Management System Application.csproj.GenerateResource.cache
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel Management System Application.csproj.CoreCompileInputs.cache
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel Management System Application.csproj.CopyComplete
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel Management System Application.exe
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel Management System Application.pdb
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\MySql.Data.DLL
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\Renci.SshNet.Async.dll
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\Renci.SshNet.dll
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\Renci.SshNet.xml
+C:\Users\J T G\source\repos\Hotel Management System Application\bin\Debug\Renci.SshNet.Async.xml
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel_Management_System_Application.MainForm.resources
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel_Management_System_Application.GuestForm.resources
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel_Management_System_Application.RoomForm.resources
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel_Management_System_Application.ReservationForm.resources
+C:\Users\J T G\source\repos\Hotel Management System Application\obj\Debug\Hotel_Management_System_Application.Splash.resources
