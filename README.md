@@ -1,5 +1,5 @@
 # CompanyHotelManagementSystem
-This application is a simulation of a hotel managemnent system that uses MySQL as a backend to store data on Guests, Rooms, and Reservations.
+This application is a simulation of a hotel management system that uses MySQL as a back-end to store data on Guests, Rooms, and Reservations.
 
 # Tech Utilized
 C# for Frontend and MySQL for backend
